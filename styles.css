@@ -1,0 +1,30 @@
+
+#titulo {
+    color: #2E86C1; /* Azul */
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+.texto {
+    color: #333;
+    margin: 10px 0;
+    line-height: 1.6;
+    font-size: 18px;
+    font-family: 'Helvetica', sans-serif;
+}
+
+.boton#botonEnviar {
+    background-color: #28B463; /* Verde */
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid #1D8348;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.boton#botonEnviar:hover {
+    background-color: #1D8348;
+}
